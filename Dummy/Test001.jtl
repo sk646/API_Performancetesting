@@ -1,0 +1,129 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1729763717963,809,Wikipedia launch,200,OK,Thread Group 1-7,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,635,0,584
+1729763717963,635,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-7,text,true,,1376,119,16,16,https://en.wikipedia.org/,635,0,584
+1729763718608,164,Wikipedia launch-1,200,OK,Thread Group 1-7,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,70,0,0
+1729763717840,943,Wikipedia launch,200,OK,Thread Group 1-5,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,761,0,706
+1729763717840,761,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-5,text,true,,1376,119,16,16,https://en.wikipedia.org/,761,0,706
+1729763718609,174,Wikipedia launch-1,200,OK,Thread Group 1-5,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,69,0,0
+1729763718024,760,Wikipedia launch,200,OK,Thread Group 1-8,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,574,0,516
+1729763718024,574,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-8,text,true,,1376,119,16,16,https://en.wikipedia.org/,574,0,516
+1729763718609,175,Wikipedia launch-1,200,OK,Thread Group 1-8,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,69,0,0
+1729763718087,699,Wikipedia launch,200,OK,Thread Group 1-9,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,511,0,450
+1729763718087,511,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-9,text,true,,1376,119,16,16,https://en.wikipedia.org/,511,0,450
+1729763718609,177,Wikipedia launch-1,200,OK,Thread Group 1-9,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,69,0,0
+1729763717906,880,Wikipedia launch,200,OK,Thread Group 1-6,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,703,0,643
+1729763717906,703,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-6,text,true,,1376,119,16,16,https://en.wikipedia.org/,703,0,643
+1729763718610,176,Wikipedia launch-1,200,OK,Thread Group 1-6,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,77,0,0
+1729763717670,1120,Wikipedia launch,200,OK,Thread Group 1-1,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,930,0,875
+1729763718405,385,Wikipedia launch,200,OK,Thread Group 1-14,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,198,0,136
+1729763717670,930,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-1,text,true,,1376,119,16,16,https://en.wikipedia.org/,930,0,875
+1729763718608,182,Wikipedia launch-1,200,OK,Thread Group 1-1,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,78,0,0
+1729763718405,198,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-14,text,true,,1376,119,16,16,https://en.wikipedia.org/,198,0,136
+1729763718610,180,Wikipedia launch-1,200,OK,Thread Group 1-14,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,85,0,0
+1729763717715,1077,Wikipedia launch,200,OK,Thread Group 1-3,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,891,0,822
+1729763717670,1122,Wikipedia launch,200,OK,Thread Group 1-2,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,934,0,869
+1729763717715,891,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-3,text,true,,1376,119,16,16,https://en.wikipedia.org/,891,0,822
+1729763717670,934,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-2,text,true,,1376,119,16,16,https://en.wikipedia.org/,934,0,869
+1729763718608,184,Wikipedia launch-1,200,OK,Thread Group 1-3,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,84,0,0
+1729763718610,182,Wikipedia launch-1,200,OK,Thread Group 1-2,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,77,0,0
+1729763718340,454,Wikipedia launch,200,OK,Thread Group 1-13,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,264,0,199
+1729763718276,518,Wikipedia launch,200,OK,Thread Group 1-12,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,329,0,268
+1729763718340,264,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-13,text,true,,1376,119,16,16,https://en.wikipedia.org/,264,0,199
+1729763718276,329,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-12,text,true,,1376,119,16,16,https://en.wikipedia.org/,329,0,268
+1729763718609,185,Wikipedia launch-1,200,OK,Thread Group 1-13,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,82,0,0
+1729763718608,186,Wikipedia launch-1,200,OK,Thread Group 1-12,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,77,0,0
+1729763718464,331,Wikipedia launch,200,OK,Thread Group 1-15,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,151,0,104
+1729763718464,151,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-15,text,true,,1376,119,16,16,https://en.wikipedia.org/,151,0,104
+1729763718616,179,Wikipedia launch-1,200,OK,Thread Group 1-15,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,79,0,0
+1729763717778,1019,Wikipedia launch,200,OK,Thread Group 1-4,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,824,0,760
+1729763717778,824,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-4,text,true,,1376,119,16,16,https://en.wikipedia.org/,824,0,760
+1729763718608,189,Wikipedia launch-1,200,OK,Thread Group 1-4,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,87,0,0
+1729763718213,584,Wikipedia launch,200,OK,Thread Group 1-11,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,392,0,333
+1729763718213,392,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-11,text,true,,1376,119,16,16,https://en.wikipedia.org/,392,0,333
+1729763718609,188,Wikipedia launch-1,200,OK,Thread Group 1-11,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,87,0,0
+1729763718150,650,Wikipedia launch,200,OK,Thread Group 1-10,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,458,0,386
+1729763718150,458,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-10,text,true,,1376,119,16,16,https://en.wikipedia.org/,458,0,386
+1729763718610,190,Wikipedia launch-1,200,OK,Thread Group 1-10,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,86,0,0
+1729763718549,448,Wikipedia launch,200,OK,Thread Group 1-16,text,true,,115072,388,16,16,https://en.wikipedia.org/wiki/Main_Page,184,0,137
+1729763718549,184,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-16,text,true,,1376,119,16,16,https://en.wikipedia.org/,184,0,137
+1729763718734,263,Wikipedia launch-1,200,OK,Thread Group 1-16,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,61,0,0
+1729763718774,237,Wikipedia search,200,OK,Thread Group 1-7,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,51,0,0
+1729763718786,281,Wikipedia search,200,OK,Thread Group 1-5,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,52,0,0
+1729763718786,286,Wikipedia search,200,OK,Thread Group 1-8,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,51,0,0
+1729763718787,290,Wikipedia search,200,OK,Thread Group 1-9,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,54,0,0
+1729763718788,297,Wikipedia search,200,OK,Thread Group 1-6,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,54,0,0
+1729763718791,300,Wikipedia search,200,OK,Thread Group 1-14,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,56,0,0
+1729763718796,298,Wikipedia search,200,OK,Thread Group 1-15,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,64,0,0
+1729763718793,303,Wikipedia search,200,OK,Thread Group 1-2,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,63,0,0
+1729763718791,309,Wikipedia search,200,OK,Thread Group 1-1,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,58,0,0
+1729763718795,306,Wikipedia search,200,OK,Thread Group 1-13,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,68,0,0
+1729763718795,306,Wikipedia search,200,OK,Thread Group 1-12,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,64,0,0
+1729763718793,310,Wikipedia search,200,OK,Thread Group 1-3,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,64,0,0
+1729763718798,306,Wikipedia search,200,OK,Thread Group 1-11,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,70,0,0
+1729763718802,302,Wikipedia search,200,OK,Thread Group 1-10,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,70,0,0
+1729763718798,312,Wikipedia search,200,OK,Thread Group 1-4,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,63,0,0
+1729763719012,163,Wikipedia launch,200,OK,Thread Group 1-7,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,94,0,0
+1729763719012,94,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-7,text,true,,977,255,16,16,https://en.wikipedia.org/,94,0,0
+1729763719106,69,Wikipedia launch-1,200,OK,Thread Group 1-7,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,52,0,0
+1729763719069,114,Wikipedia launch,200,OK,Thread Group 1-5,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,46,0,0
+1729763719069,46,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-5,text,true,,977,255,16,16,https://en.wikipedia.org/,46,0,0
+1729763719115,68,Wikipedia launch-1,200,OK,Thread Group 1-5,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,55,0,0
+1729763719073,115,Wikipedia launch,200,OK,Thread Group 1-8,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,45,0,0
+1729763719073,45,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-8,text,true,,977,255,16,16,https://en.wikipedia.org/,45,0,0
+1729763719119,69,Wikipedia launch-1,200,OK,Thread Group 1-8,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,53,0,0
+1729763719079,118,Wikipedia launch,200,OK,Thread Group 1-9,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,50,0,0
+1729763719079,50,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-9,text,true,,977,255,16,16,https://en.wikipedia.org/,50,0,0
+1729763719129,68,Wikipedia launch-1,200,OK,Thread Group 1-9,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,48,0,0
+1729763719087,117,Wikipedia launch,200,OK,Thread Group 1-6,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,48,0,0
+1729763719087,48,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-6,text,true,,977,255,16,16,https://en.wikipedia.org/,48,0,0
+1729763719135,69,Wikipedia launch-1,200,OK,Thread Group 1-6,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,52,0,0
+1729763719092,117,Wikipedia launch,200,OK,Thread Group 1-14,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,48,0,0
+1729763719092,48,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-14,text,true,,977,255,16,16,https://en.wikipedia.org/,48,0,0
+1729763719140,69,Wikipedia launch-1,200,OK,Thread Group 1-14,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,51,0,0
+1729763719095,136,Wikipedia launch,200,OK,Thread Group 1-15,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,53,0,0
+1729763719095,53,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-15,text,true,,977,255,16,16,https://en.wikipedia.org/,53,0,0
+1729763719149,82,Wikipedia launch-1,200,OK,Thread Group 1-15,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,52,0,0
+1729763719098,135,Wikipedia launch,200,OK,Thread Group 1-2,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,50,0,0
+1729763719098,50,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-2,text,true,,977,255,16,16,https://en.wikipedia.org/,50,0,0
+1729763719149,84,Wikipedia launch-1,200,OK,Thread Group 1-2,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,52,0,0
+1729763719111,134,Wikipedia launch,200,OK,Thread Group 1-4,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,47,0,0
+1729763719111,47,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-4,text,true,,977,255,16,16,https://en.wikipedia.org/,47,0,0
+1729763719159,86,Wikipedia launch-1,200,OK,Thread Group 1-4,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,52,0,0
+1729763719104,143,Wikipedia launch,200,OK,Thread Group 1-3,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,53,0,0
+1729763719104,53,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-3,text,true,,977,255,16,16,https://en.wikipedia.org/,53,0,0
+1729763719103,144,Wikipedia launch,200,OK,Thread Group 1-12,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,55,0,0
+1729763719158,89,Wikipedia launch-1,200,OK,Thread Group 1-3,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,54,0,0
+1729763719103,55,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-12,text,true,,977,255,16,16,https://en.wikipedia.org/,55,0,0
+1729763719159,88,Wikipedia launch-1,200,OK,Thread Group 1-12,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,54,0,0
+1729763719102,146,Wikipedia launch,200,OK,Thread Group 1-1,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,56,0,0
+1729763719102,56,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-1,text,true,,977,255,16,16,https://en.wikipedia.org/,56,0,0
+1729763719159,89,Wikipedia launch-1,200,OK,Thread Group 1-1,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,54,0,0
+1729763719105,148,Wikipedia launch,200,OK,Thread Group 1-10,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,57,0,0
+1729763719105,57,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-10,text,true,,977,255,16,16,https://en.wikipedia.org/,57,0,0
+1729763719163,90,Wikipedia launch-1,200,OK,Thread Group 1-10,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,61,0,0
+1729763719105,149,Wikipedia launch,200,OK,Thread Group 1-11,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,58,0,0
+1729763719102,152,Wikipedia launch,200,OK,Thread Group 1-13,text,true,,114673,524,16,16,https://en.wikipedia.org/wiki/Main_Page,62,0,0
+1729763719105,58,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-11,text,true,,977,255,16,16,https://en.wikipedia.org/,58,0,0
+1729763719102,62,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-13,text,true,,977,255,16,16,https://en.wikipedia.org/,62,0,0
+1729763719164,90,Wikipedia launch-1,200,OK,Thread Group 1-11,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,64,0,0
+1729763719165,89,Wikipedia launch-1,200,OK,Thread Group 1-13,text,true,,113696,269,16,16,https://en.wikipedia.org/wiki/Main_Page,62,0,0
+1729763718998,264,Wikipedia search,200,OK,Thread Group 1-16,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,107,0,0
+1729763719177,162,Wikipedia search,200,OK,Thread Group 1-7,text,true,,351186,267,16,16,https://en.wikipedia.org/wiki/Eclipse,63,0,0
+1729763719184,211,Wikipedia search,200,OK,Thread Group 1-5,text,true,,351186,267,15,15,https://en.wikipedia.org/wiki/Eclipse,64,0,0
+1729763719190,225,Wikipedia search,200,OK,Thread Group 1-8,text,true,,351186,267,14,14,https://en.wikipedia.org/wiki/Eclipse,64,0,0
+1729763719197,261,Wikipedia search,200,OK,Thread Group 1-9,text,true,,351186,267,13,13,https://en.wikipedia.org/wiki/Eclipse,71,0,0
+1729763719205,258,Wikipedia search,200,OK,Thread Group 1-6,text,true,,351186,267,12,12,https://en.wikipedia.org/wiki/Eclipse,64,0,0
+1729763719209,310,Wikipedia search,200,OK,Thread Group 1-14,text,true,,351186,267,11,11,https://en.wikipedia.org/wiki/Eclipse,103,0,0
+1729763719235,284,Wikipedia search,200,OK,Thread Group 1-15,text,true,,351186,267,11,11,https://en.wikipedia.org/wiki/Eclipse,84,0,0
+1729763719263,264,Wikipedia launch,200,OK,Thread Group 1-16,text,true,,114673,524,9,9,https://en.wikipedia.org/wiki/Main_Page,96,0,0
+1729763719263,96,Wikipedia launch-0,301,Moved Permanently,Thread Group 1-16,text,true,,977,255,9,9,https://en.wikipedia.org/,96,0,0
+1729763719359,168,Wikipedia launch-1,200,OK,Thread Group 1-16,text,true,,113696,269,9,9,https://en.wikipedia.org/wiki/Main_Page,152,0,0
+1729763719237,290,Wikipedia search,200,OK,Thread Group 1-2,text,true,,351186,267,9,9,https://en.wikipedia.org/wiki/Eclipse,84,0,0
+1729763719247,293,Wikipedia search,200,OK,Thread Group 1-4,text,true,,351186,267,8,8,https://en.wikipedia.org/wiki/Eclipse,83,0,0
+1729763719248,293,Wikipedia search,200,OK,Thread Group 1-3,text,true,,351186,267,8,8,https://en.wikipedia.org/wiki/Eclipse,83,0,0
+1729763719248,293,Wikipedia search,200,OK,Thread Group 1-12,text,true,,351186,267,8,8,https://en.wikipedia.org/wiki/Eclipse,89,0,0
+1729763719254,287,Wikipedia search,200,OK,Thread Group 1-10,text,true,,351186,267,8,8,https://en.wikipedia.org/wiki/Eclipse,93,0,0
+1729763719255,287,Wikipedia search,200,OK,Thread Group 1-13,text,true,,351186,267,6,6,https://en.wikipedia.org/wiki/Eclipse,91,0,0
+1729763719255,287,Wikipedia search,200,OK,Thread Group 1-11,text,true,,351186,267,4,4,https://en.wikipedia.org/wiki/Eclipse,93,0,0
+1729763719250,292,Wikipedia search,200,OK,Thread Group 1-1,text,true,,351186,267,4,4,https://en.wikipedia.org/wiki/Eclipse,84,0,0
+1729763719528,106,Wikipedia search,200,OK,Thread Group 1-16,text,true,,351186,267,1,1,https://en.wikipedia.org/wiki/Eclipse,50,0,0
